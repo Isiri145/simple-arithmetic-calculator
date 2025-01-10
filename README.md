@@ -18,5 +18,6 @@ A simple calculator that performs addition, subtraction, multiplication, and div
 2. Navigate to the project directory: <br>
    cd simple-arithmetic-calculator <br>
 3. Open the project in your preferred code editor or browser. <br>
-4. Open the index.html file in your browser. <br>
-5. Use the application to facilitate your calculations!
+4. Open the index.html file in your browser (Right click on the file and then select open with live server). <br>
+5. Use the application to facilitate your calculations!<br><br>
+![image](https://github.com/user-attachments/assets/3b9ed112-5fbf-484c-99ed-aa7a7678b580)
