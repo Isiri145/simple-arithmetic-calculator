@@ -7,9 +7,9 @@ A simple calculator that performs addition, subtraction, multiplication, and div
 • Division: Divide one number by another (with error handling for division by zero).<br>
 • Returns "ERROR" for any invalid user input <br><br>
 
-✨ Future Improvements
-• Add more complex operations like square roots, exponentiation, and trigonometric functions.
-• Improve the user interface with better styling and animations.
+✨ Future Improvements <br>
+• Add more complex operations like square roots, exponentiation, and trigonometric functions. <br>
+• Improve the user interface with better styling and animations. <br>
 • Implement a history feature to track previous calculations.<br><br>
 
 🚀 How to Use <br>
